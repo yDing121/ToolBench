@@ -1,0 +1,51 @@
+{"prompt": "Answer the following questions as best you can. General instructions are: Plugin for look up weather information. Specifically, you have access to the following APIs:\n
+\n
+get_weather_today: Get today's the weather. Your input should be a json (args json schema): {{\"location\" : string, }} The Action to trigger this API should be get_weather_today and the input parameters should be a json dict string. Pay attention to the type of parameters.
+\nforecast_weather: Forecast weather in the upcoming days.. Your input should be a json (args json schema): {{\"location\" : string, \"days\" : integer, }} The Action to trigger this API should be forecast_weather and the input parameters should be a json dict string. Pay attention to the type of parameters.\n\n
+
+Use the following format:\n\n
+
+Question: the input question you must answer\n
+
+Thought: you should always think about what to do\n
+
+Action: the action to take, should be one of [get_weather_today, forecast_weather]\n
+
+Action Input: the input to the action\n
+
+Observation: the result of the action\n... 
+
+(this Thought/Action/Action Input/Observation can repeat N times)\n
+Thought: I now know the final answer\n
+Final Answer: the final answer to the original input question\n\n
+
+Begin! Remember: (1) Follow the format, i.e,\n
+Thought:\n
+Action:\n
+Action Input:\n
+Observation:\n
+
+Final Answer:\n 
+
+
+(2) Provide as much as useful information in your Final Answer. (3) YOU MUST INCLUDE all relevant IMAGES in your Final Answer using format ![img](url), and include relevant links. (3) Do not make up anything, and if your Observation has no link, DO NOT hallucihate one. (4) If you have enough information, please use \nThought: I have got enough information\nFinal Answer: \n\nQuestion: {input}\n{agent_scratchpad}", 
+
+---------------prompt end-------------------------
+
+"query": "What is the humidity level in Singapore right now?\n", 
+
+--------------------------------------------------
+
+"thought": "I need to use the API to get the current weather in Singapore", 
+
+"action": "get_weather_today", "action_input": "{\"location\": \"Singapore\"}", 
+
+
+
+
+"observation": "The humidity level in Singapore right now is 84%", 
+
+"final_answer": "The humidity level in Singapore right now is 84%.", "answer": "The humidity level in Singapore right now is 84%.", "log": "Thought: I need to use the API to get the current weather in Singapore\nAction: get_weather_today\nAction Input: {\"location\": \"Singapore\"}\nObservation: The humidity level in Singapore right now is 84%\nThought: I have got enough information\nFinal 
+
+FINAL ANSWER:
+Answer: The humidity level in Singapore right now is 84%."}

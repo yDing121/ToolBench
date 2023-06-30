@@ -8,7 +8,7 @@ BEST_OF=3
 STOP=None
 PARALLEL=1
 TOTAL_NUM=1000
-TOOL_NAME="chemical"
+TOOL_NAME="weather"
 LANGUAGE="en"
 
 OPTS=""

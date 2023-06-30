@@ -15,7 +15,7 @@
 
 import requests
 import json
-from tqdm import tqdm
+# from tqdm import tqdm
 import multiprocessing as mp
 import requests
 import time

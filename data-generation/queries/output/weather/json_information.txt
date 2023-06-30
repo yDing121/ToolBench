@@ -1,0 +1,15 @@
+tool_descriptions.json:
+{
+    "calculator":"",
+    "weather":"",
+    "stock":"This tool is aiming for obtaining stock market information, you are able to query about the 'open', 'close', 'high', and 'low' prices or the exchange volume of a certain stock in a certain day or certain month. You are also able to query about the current open status of a certain market, etc, the US market. ",
+    "map":""
+}
+
+tool_seeds.json:
+{
+    "calculator":"",
+    "weather":"",
+    "stock":"What was the stock open price of IBM in 2022/06/13?\n Tell me the highest price of Apple Inc in 2022 April 3rd?\n What was the volume of the stock of Intel on 4th Janurary, 2008.\n Tell me the close price of the stock Tencent in October, 2012.",
+    "map":""
+}

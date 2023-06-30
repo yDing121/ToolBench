@@ -1,0 +1,100 @@
+Not considering the benzene ring, how many double bouds are there in the molecule of aspirin?
+How will the monoisotopic mass change if we substitute the sulfate for carbonate in sodium sulfate?
+How will the solubility change if we replace the sodium ions with calcium ions in sodium carbonate?
+How many synonyms does deoxyribonucleic acid have?
+Is there any rotatable bond in the molecule of 1,3,7-Trimethylxanthine?
+Which one has a larger exact mass, sucrose or lactitol?
+List as many drugs as possible that have the same molecular formula with sucrose.
+How many benzene rings are there in 9H-Carbazole-3-carboxaldehyde?
+Which one has a larger complexity, 9H-Carbazole-3-carboxaldehyde or 9-Methyl-9H-carbazole-3-carbaldehyde?
+How many heavy atoms are there in Dihydromyoporone?
+How will the solubility change if sodium bicarbonate loses the hydrogen?
+What properties may methane have?
+How many hydrogen atoms are there in chlorofluoromethane?
+How much will the molecule weight increase if we replace one hydrogen atom in the methane with one chlorine atom?
+Find out the most concise synonym of adenosine 5'-triphosphate.
+Find out the longest name of adenosine 5'-triphosphate.
+How will the complexity change if adenosine 5'-triphosphate loses one phosphate group?
+Tell me the number of carboxyl in lactitol.
+List all the equivalent computed properties between sucrose and beta-lactose.
+Is there any covalently-bonded unit in palmitic acid?
+What is the IUPAC name of C21H30O2?
+What is the molecular formula of Estradiol?
+What is the molecular weight of Naphthalene?
+Can you provide the Canonical SMILES for Quinine?
+What is the Exact Mass of Lysergic acid diethylamide (LSD)?
+What is the Monoisotopic Mass of Morphine?
+What is the TPSA value of Benzaldehyde?
+What are the LogP values of nitric compounds?
+I want to know the XLogP value of Methamphetamine.
+How many rotatable bonds does Penicillin have?
+What is the IUPAC name of Edta thioester?
+What is the molecular formula of Glutathione?
+What is the molecular weight of Phenol?
+Can you provide the Canonical SMILES for Vitamin C?
+What is the Exact Mass of Adenosine triphosphate (ATP)?
+What is the Monoisotopic Mass of Insulin?
+What is the TPSA value of Ethylene glycol?
+What are the LogP values of phosphoric compounds?
+I want to know the XLogP value of Ibuprofen.
+How many hydrogen bond donors does Nicotine have?
+What is the IUPAC name of C6H5CH2OH?
+What is the molecular formula of 2-methylpropanal?
+What is the molecular weight of benzene?
+Can you provide the Canonical SMILES for aspirin?
+What is the Exact Mass of caffeine?
+What is the Monoisotopic Mass of glucosea?
+What is the TPSA value of ethanol?
+What is the IUPAC name of Penicillin G?
+What is the molecular formula of 9H-Carbazole-3-carboxaldehyde?
+What is the molecular weight of Parinaric acid?
+Can you provide the Canonical SMILES for Dipraglurant?
+What is the Exact Mass of Platinum(II) octaethylporphyrin ketone?
+What is the Monoisotopic Mass of 4,4’-diaminoazobenzene?
+What is the TPSA value of 3-hydroxybutanenitrile?
+What are the LogP values of sulfuric compounds?
+I want to know the XLogP value of paracetamol (acetaminophen).
+How many rotatable bonds does glubionate calcium have?
+What is the IUPAC name of Praziquantel?
+What is the molecular formula of Fenoterol?
+What is the molecular weight of Butyltrichlorosilane?
+Can you provide the Canonical SMILES for Lisdexamfetamine?
+What is the Exact Mass of N,N-Dimethyltryptamine (DMT)?
+What is the Monoisotopic Mass of Tetrahydrocannabinol (THC)?
+What is the TPSA value of Salicylic acid?
+What are the LogP values of halogenated compounds?
+I want to know the XLogP value of Cocaine.
+What are the LogP values of aliphatic compounds?
+I want to know the XLogP value of ibuprofen.
+What is the IUPAC name of CH3(CH2)4CH3?
+What is the molecular formula of acetic acid?
+What is the molecular weight of sodium chloride?
+Can you provide the Canonical SMILES for methanol?
+What is the Exact Mass of water?
+What is the Monoisotopic Mass of carbon dioxide?
+What is the TPSA value of acetonitrile?
+What are the LogP values of aromatic compounds?
+I want to know the XLogP value of nicotine.
+How many hydrogen bond donors does penicillin have?
+Provide me the link of DrugBank record for Saxagliptin.
+Where can I learn the knowledge of insulin?
+I'd like to learn about Butyltrichlorosilane. What's the SMILES expression of it?
+Give me the molecular formula of Fenoterol.
+Does the Cefoxitin(1-) bring charge?
+Compare the logP of Epishyobunone and Dihydromyoporone.
+Can you rate the complexity of acetylsalicylic acid and salicylic acid?
+What is the molecular weight of 9H-Carbazole-3-carboxaldehyde?
+What is the molecular weight of glubionate calcium?
+Can you provide the Canonical SMILES for Dipraglurant?
+What is the IUPAC name of Parinaric acid?
+Does 5-oxoproline carry any charge?
+What is the Exact Mass of Platinum(II) octaethylporphyrin ketone?
+What is the Monoisotopic Mass of 4,4'-diaminoazobenzene?
+What is the TPSA value of 3-hydroxybutanenitrile?
+How does the Complexity of Dipraglurant compare to that of Parinaric acid?
+What are the LogP values of sulfuric compounds?
+Compare to the water, which of the sodium compounds have less weight?
+What is the standard name of aspirin? Does it the same compound with salicylic acid?
+I want to know the XLogP value of paracetamol (acetaminophen).
+Provide me the properties of acetonitrile.
+Are there any other names for caffeine?

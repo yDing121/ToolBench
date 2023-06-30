@@ -1,0 +1,325 @@
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:165: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:672: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:165: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+will register chemical-prop
+will register douban-film
+will register wikidata
+will register stock
+will register weather
+will register wikipedia
+will register wolframalpha
+will register office-ppt
+will register bing_search
+will register map
+will register nllb-translation
+will register baidu-translation
+will register tutorial
+will register file_operation
+will register meta_analysis
+will register database
+will register code_interpreter
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:165: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:165: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:165: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:165: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:165: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:165: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:165: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:165: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:165: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:165: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:672: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:672: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:672: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:672: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:165: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:672: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:165: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:165: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:165: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:165: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:672: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:672: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:672: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:672: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:165: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:165: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:165: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:165: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:672: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:165: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+[1;31m[INFO|(BMTools)apitool:95]2023-04-27 11:40:27,932 >> [0m API Name: get_weather_today
+[1;31m[INFO|(BMTools)apitool:95]2023-04-27 11:40:27,932 >> [0m API Name: get_weather_today
+[1;31m[INFO|(BMTools)apitool:96]2023-04-27 11:40:27,932 >> [0m API Description: Get today's the weather. Your input should be a json (args json schema): {{"location" : string, }} The Action to trigger this API should be get_weather_today and the input parameters should be a json dict string. Pay attention to the type of parameters.
+[1;31m[INFO|(BMTools)apitool:96]2023-04-27 11:40:27,932 >> [0m API Description: Get today's the weather. Your input should be a json (args json schema): {{"location" : string, }} The Action to trigger this API should be get_weather_today and the input parameters should be a json dict string. Pay attention to the type of parameters.
+[1;31m[INFO|(BMTools)apitool:95]2023-04-27 11:40:27,932 >> [0m API Name: forecast_weather
+[1;31m[INFO|(BMTools)apitool:96]2023-04-27 11:40:27,932 >> [0m API Description: Forecast weather in the upcoming days.. Your input should be a json (args json schema): {{"location" : string, "days" : integer, }} The Action to trigger this API should be forecast_weather and the input parameters should be a json dict string. Pay attention to the type of parameters.
+[1;31m[INFO|(BMTools)apitool:95]2023-04-27 11:40:27,932 >> [0m API Name: forecast_weather
+[1;31m[INFO|(BMTools)apitool:96]2023-04-27 11:40:27,932 >> [0m API Description: Forecast weather in the upcoming days.. Your input should be a json (args json schema): {{"location" : string, "days" : integer, }} The Action to trigger this API should be forecast_weather and the input parameters should be a json dict string. Pay attention to the type of parameters.
+[1;31m[INFO|(BMTools)apitool:95]2023-04-27 11:40:27,940 >> [0m API Name: get_weather_today
+[1;31m[INFO|(BMTools)apitool:96]2023-04-27 11:40:27,940 >> [0m API Description: Get today's the weather. Your input should be a json (args json schema): {{"location" : string, }} The Action to trigger this API should be get_weather_today and the input parameters should be a json dict string. Pay attention to the type of parameters.
+[1;31m[INFO|(BMTools)apitool:95]2023-04-27 11:40:27,941 >> [0m API Name: forecast_weather
+[1;31m[INFO|(BMTools)apitool:96]2023-04-27 11:40:27,941 >> [0m API Description: Forecast weather in the upcoming days.. Your input should be a json (args json schema): {{"location" : string, "days" : integer, }} The Action to trigger this API should be forecast_weather and the input parameters should be a json dict string. Pay attention to the type of parameters.
+[1;31m[INFO|(BMTools)apitool:95]2023-04-27 11:40:27,941 >> [0m API Name: get_weather_today
+[1;31m[INFO|(BMTools)apitool:96]2023-04-27 11:40:27,941 >> [0m API Description: Get today's the weather. Your input should be a json (args json schema): {{"location" : string, }} The Action to trigger this API should be get_weather_today and the input parameters should be a json dict string. Pay attention to the type of parameters.
+[1;31m[INFO|(BMTools)apitool:95]2023-04-27 11:40:27,942 >> [0m API Name: forecast_weather
+[1;31m[INFO|(BMTools)apitool:96]2023-04-27 11:40:27,942 >> [0m API Description: Forecast weather in the upcoming days.. Your input should be a json (args json schema): {{"location" : string, "days" : integer, }} The Action to trigger this API should be forecast_weather and the input parameters should be a json dict string. Pay attention to the type of parameters.
+[1;31m[INFO|(BMTools)apitool:95]2023-04-27 11:40:27,973 >> [0m API Name: get_weather_today
+[1;31m[INFO|(BMTools)apitool:96]2023-04-27 11:40:27,974 >> [0m API Description: Get today's the weather. Your input should be a json (args json schema): {{"location" : string, }} The Action to trigger this API should be get_weather_today and the input parameters should be a json dict string. Pay attention to the type of parameters.
+[1;31m[INFO|(BMTools)apitool:95]2023-04-27 11:40:27,974 >> [0m API Name: forecast_weather
+[1;31m[INFO|(BMTools)apitool:96]2023-04-27 11:40:27,974 >> [0m API Description: Forecast weather in the upcoming days.. Your input should be a json (args json schema): {{"location" : string, "days" : integer, }} The Action to trigger this API should be forecast_weather and the input parameters should be a json dict string. Pay attention to the type of parameters.
+[1;31m[INFO|(BMTools)apitool:95]2023-04-27 11:40:27,976 >> [0m API Name: get_weather_today
+[1;31m[INFO|(BMTools)apitool:96]2023-04-27 11:40:27,976 >> [0m API Description: Get today's the weather. Your input should be a json (args json schema): {{"location" : string, }} The Action to trigger this API should be get_weather_today and the input parameters should be a json dict string. Pay attention to the type of parameters.
+[1;31m[INFO|(BMTools)apitool:95]2023-04-27 11:40:27,976 >> [0m API Name: forecast_weather
+[1;31m[INFO|(BMTools)apitool:96]2023-04-27 11:40:27,976 >> [0m API Description: Forecast weather in the upcoming days.. Your input should be a json (args json schema): {{"location" : string, "days" : integer, }} The Action to trigger this API should be forecast_weather and the input parameters should be a json dict string. Pay attention to the type of parameters.
+[1;31m[INFO|(BMTools)apitool:95]2023-04-27 11:40:27,976 >> [0m API Name: get_weather_today
+[1;31m[INFO|(BMTools)apitool:96]2023-04-27 11:40:27,977 >> [0m API Description: Get today's the weather. Your input should be a json (args json schema): {{"location" : string, }} The Action to trigger this API should be get_weather_today and the input parameters should be a json dict string. Pay attention to the type of parameters.
+[1;31m[INFO|(BMTools)apitool:95]2023-04-27 11:40:27,977 >> [0m API Name: forecast_weather
+[1;31m[INFO|(BMTools)apitool:96]2023-04-27 11:40:27,977 >> [0m API Description: Forecast weather in the upcoming days.. Your input should be a json (args json schema): {{"location" : string, "days" : integer, }} The Action to trigger this API should be forecast_weather and the input parameters should be a json dict string. Pay attention to the type of parameters.
+[1;31m[INFO|(BMTools)apitool:95]2023-04-27 11:40:27,980 >> [0m API Name: get_weather_today
+[1;31m[INFO|(BMTools)apitool:96]2023-04-27 11:40:27,980 >> [0m API Description: Get today's the weather. Your input should be a json (args json schema): {{"location" : string, }} The Action to trigger this API should be get_weather_today and the input parameters should be a json dict string. Pay attention to the type of parameters.
+[1;31m[INFO|(BMTools)apitool:95]2023-04-27 11:40:27,980 >> [0m API Name: forecast_weather
+[1;31m[INFO|(BMTools)apitool:96]2023-04-27 11:40:27,980 >> [0m API Description: Forecast weather in the upcoming days.. Your input should be a json (args json schema): {{"location" : string, "days" : integer, }} The Action to trigger this API should be forecast_weather and the input parameters should be a json dict string. Pay attention to the type of parameters.
+[1;31m[INFO|(BMTools)apitool:95]2023-04-27 11:40:27,980 >> [0m API Name: get_weather_today
+[1;31m[INFO|(BMTools)apitool:96]2023-04-27 11:40:27,980 >> [0m API Description: Get today's the weather. Your input should be a json (args json schema): {{"location" : string, }} The Action to trigger this API should be get_weather_today and the input parameters should be a json dict string. Pay attention to the type of parameters.
+[1;31m[INFO|(BMTools)apitool:95]2023-04-27 11:40:27,980 >> [0m API Name: forecast_weather
+[1;31m[INFO|(BMTools)apitool:96]2023-04-27 11:40:27,980 >> [0m API Description: Forecast weather in the upcoming days.. Your input should be a json (args json schema): {{"location" : string, "days" : integer, }} The Action to trigger this API should be forecast_weather and the input parameters should be a json dict string. Pay attention to the type of parameters.
+[1;31m[INFO|(BMTools)apitool:95]2023-04-27 11:40:27,982 >> [0m API Name: get_weather_today
+[1;31m[INFO|(BMTools)apitool:96]2023-04-27 11:40:27,982 >> [0m API Description: Get today's the weather. Your input should be a json (args json schema): {{"location" : string, }} The Action to trigger this API should be get_weather_today and the input parameters should be a json dict string. Pay attention to the type of parameters.
+[1;31m[INFO|(BMTools)apitool:95]2023-04-27 11:40:27,982 >> [0m API Name: forecast_weather
+[1;31m[INFO|(BMTools)apitool:96]2023-04-27 11:40:27,982 >> [0m API Description: Forecast weather in the upcoming days.. Your input should be a json (args json schema): {{"location" : string, "days" : integer, }} The Action to trigger this API should be forecast_weather and the input parameters should be a json dict string. Pay attention to the type of parameters.
+will register chemical-prop
+will register douban-film
+will register wikidata
+will register stock
+will register weather
+will register wikipedia
+will register wolframalpha
+will register office-ppt
+will register bing_search
+will register map
+will register nllb-translation
+will register baidu-translation
+will register tutorial
+will register file_operation
+will register meta_analysis
+will register database
+will register code_interpreter
+weather {'schema_version': 'v1', 'name_for_human': 'Weather Info', 'name_for_model': 'Weather', 'description_for_human': 'Look up weather information', 'description_for_model': 'Plugin for look up weather information', 'auth': {'type': 'none'}, 'api': {'type': 'openapi', 'url': 'http://127.0.0.1:8079/tools/weather/openapi.json', 'is_user_authenticated': False}, 'author_github': None, 'logo_url': 'https://cdn.weatherapi.com/v4/images/weatherapi_logo.png', 'contact_email': 'hello@contact.com', 'legal_info_url': 'hello@legal.com'}
+will register chemical-prop
+will register douban-film
+will register wikidata
+will register stock
+will register weather
+will register wikipedia
+will register wolframalpha
+will register office-ppt
+will register bing_search
+will register map
+will register nllb-translation
+will register baidu-translation
+will register tutorial
+will register file_operation
+will register meta_analysis
+will register database
+will register code_interpreter
+weather {'schema_version': 'v1', 'name_for_human': 'Weather Info', 'name_for_model': 'Weather', 'description_for_human': 'Look up weather information', 'description_for_model': 'Plugin for look up weather information', 'auth': {'type': 'none'}, 'api': {'type': 'openapi', 'url': 'http://127.0.0.1:8079/tools/weather/openapi.json', 'is_user_authenticated': False}, 'author_github': None, 'logo_url': 'https://cdn.weatherapi.com/v4/images/weatherapi_logo.png', 'contact_email': 'hello@contact.com', 'legal_info_url': 'hello@legal.com'}
+will register chemical-prop
+will register douban-film
+will register wikidata
+will register stock
+will register weather
+will register wikipedia
+will register wolframalpha
+will register office-ppt
+will register bing_search
+will register map
+will register nllb-translation
+will register baidu-translation
+will register tutorial
+will register file_operation
+will register meta_analysis
+will register database
+will register code_interpreter
+weather {'schema_version': 'v1', 'name_for_human': 'Weather Info', 'name_for_model': 'Weather', 'description_for_human': 'Look up weather information', 'description_for_model': 'Plugin for look up weather information', 'auth': {'type': 'none'}, 'api': {'type': 'openapi', 'url': 'http://127.0.0.1:8079/tools/weather/openapi.json', 'is_user_authenticated': False}, 'author_github': None, 'logo_url': 'https://cdn.weatherapi.com/v4/images/weatherapi_logo.png', 'contact_email': 'hello@contact.com', 'legal_info_url': 'hello@legal.com'}
+will register chemical-prop
+will register douban-film
+will register wikidata
+will register stock
+will register weather
+will register wikipedia
+will register wolframalpha
+will register office-ppt
+will register bing_search
+will register map
+will register nllb-translation
+will register baidu-translation
+will register tutorial
+will register file_operation
+will register meta_analysis
+will register database
+will register code_interpreter
+weather {'schema_version': 'v1', 'name_for_human': 'Weather Info', 'name_for_model': 'Weather', 'description_for_human': 'Look up weather information', 'description_for_model': 'Plugin for look up weather information', 'auth': {'type': 'none'}, 'api': {'type': 'openapi', 'url': 'http://127.0.0.1:8079/tools/weather/openapi.json', 'is_user_authenticated': False}, 'author_github': None, 'logo_url': 'https://cdn.weatherapi.com/v4/images/weatherapi_logo.png', 'contact_email': 'hello@contact.com', 'legal_info_url': 'hello@legal.com'}
+will register chemical-prop
+will register douban-film
+will register wikidata
+will register stock
+will register weather
+will register wikipedia
+will register wolframalpha
+will register office-ppt
+will register bing_search
+will register map
+will register nllb-translation
+will register baidu-translation
+will register tutorial
+will register file_operation
+will register meta_analysis
+will register database
+will register code_interpreter
+weather {'schema_version': 'v1', 'name_for_human': 'Weather Info', 'name_for_model': 'Weather', 'description_for_human': 'Look up weather information', 'description_for_model': 'Plugin for look up weather information', 'auth': {'type': 'none'}, 'api': {'type': 'openapi', 'url': 'http://127.0.0.1:8079/tools/weather/openapi.json', 'is_user_authenticated': False}, 'author_github': None, 'logo_url': 'https://cdn.weatherapi.com/v4/images/weatherapi_logo.png', 'contact_email': 'hello@contact.com', 'legal_info_url': 'hello@legal.com'}
+will register chemical-prop
+will register douban-film
+will register wikidata
+will register stock
+will register weather
+will register wikipedia
+will register wolframalpha
+will register office-ppt
+will register bing_search
+will register map
+will register nllb-translation
+will register baidu-translation
+will register tutorial
+will register file_operation
+will register meta_analysis
+will register database
+will register code_interpreter
+weather {'schema_version': 'v1', 'name_for_human': 'Weather Info', 'name_for_model': 'Weather', 'description_for_human': 'Look up weather information', 'description_for_model': 'Plugin for look up weather information', 'auth': {'type': 'none'}, 'api': {'type': 'openapi', 'url': 'http://127.0.0.1:8079/tools/weather/openapi.json', 'is_user_authenticated': False}, 'author_github': None, 'logo_url': 'https://cdn.weatherapi.com/v4/images/weatherapi_logo.png', 'contact_email': 'hello@contact.com', 'legal_info_url': 'hello@legal.com'}
+will register chemical-prop
+will register douban-film
+will register wikidata
+will register stock
+will register weather
+will register wikipedia
+will register wolframalpha
+will register office-ppt
+will register bing_search
+will register map
+will register nllb-translation
+will register baidu-translation
+will register tutorial
+will register file_operation
+will register meta_analysis
+will register database
+will register code_interpreter
+weather {'schema_version': 'v1', 'name_for_human': 'Weather Info', 'name_for_model': 'Weather', 'description_for_human': 'Look up weather information', 'description_for_model': 'Plugin for look up weather information', 'auth': {'type': 'none'}, 'api': {'type': 'openapi', 'url': 'http://127.0.0.1:8079/tools/weather/openapi.json', 'is_user_authenticated': False}, 'author_github': None, 'logo_url': 'https://cdn.weatherapi.com/v4/images/weatherapi_logo.png', 'contact_email': 'hello@contact.com', 'legal_info_url': 'hello@legal.com'}
+will register chemical-prop
+will register douban-film
+will register wikidata
+will register stock
+will register weather
+will register wikipedia
+will register wolframalpha
+will register office-ppt
+will register bing_search
+will register map
+will register nllb-translation
+will register baidu-translation
+will register tutorial
+will register file_operation
+will register meta_analysis
+will register database
+will register code_interpreter
+weather {'schema_version': 'v1', 'name_for_human': 'Weather Info', 'name_for_model': 'Weather', 'description_for_human': 'Look up weather information', 'description_for_model': 'Plugin for look up weather information', 'auth': {'type': 'none'}, 'api': {'type': 'openapi', 'url': 'http://127.0.0.1:8079/tools/weather/openapi.json', 'is_user_authenticated': False}, 'author_github': None, 'logo_url': 'https://cdn.weatherapi.com/v4/images/weatherapi_logo.png', 'contact_email': 'hello@contact.com', 'legal_info_url': 'hello@legal.com'}
+will register chemical-prop
+will register douban-film
+will register wikidata
+will register stock
+will register weather
+will register wikipedia
+will register wolframalpha
+will register office-ppt
+will register bing_search
+will register map
+will register nllb-translation
+will register baidu-translation
+will register tutorial
+will register file_operation
+will register meta_analysis
+will register database
+will register code_interpreter
+weather {'schema_version': 'v1', 'name_for_human': 'Weather Info', 'name_for_model': 'Weather', 'description_for_human': 'Look up weather information', 'description_for_model': 'Plugin for look up weather information', 'auth': {'type': 'none'}, 'api': {'type': 'openapi', 'url': 'http://127.0.0.1:8079/tools/weather/openapi.json', 'is_user_authenticated': False}, 'author_github': None, 'logo_url': 'https://cdn.weatherapi.com/v4/images/weatherapi_logo.png', 'contact_email': 'hello@contact.com', 'legal_info_url': 'hello@legal.com'}
+will register chemical-prop
+will register douban-film
+will register wikidata
+will register stock
+will register weather
+will register wikipedia
+will register wolframalpha
+will register office-ppt
+will register bing_search
+will register map
+will register nllb-translation
+will register baidu-translation
+will register tutorial
+will register file_operation
+will register meta_analysis
+will register database
+will register code_interpreter
+weather {'schema_version': 'v1', 'name_for_human': 'Weather Info', 'name_for_model': 'Weather', 'description_for_human': 'Look up weather information', 'description_for_model': 'Plugin for look up weather information', 'auth': {'type': 'none'}, 'api': {'type': 'openapi', 'url': 'http://127.0.0.1:8079/tools/weather/openapi.json', 'is_user_authenticated': False}, 'author_github': None, 'logo_url': 'https://cdn.weatherapi.com/v4/images/weatherapi_logo.png', 'contact_email': 'hello@contact.com', 'legal_info_url': 'hello@legal.com'}
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/Users/edy/anaconda3/envs/lsh/lib/python3.9/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "/Users/edy/anaconda3/envs/lsh/lib/python3.9/multiprocessing/pool.py", line 48, in mapstar
+    return list(map(*args))
+  File "/Users/edy/Downloads/git_clone/AutoToolLearning/data/answer/main_react_optim.py", line 228, in main
+    cur_queries = queries[process_id*split_size: (process_id+1)*split_size]
+TypeError: 'set' object is not subscriptable
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/edy/Downloads/git_clone/AutoToolLearning/data/answer/main_react_optim.py", line 264, in <module>
+    pool.map(main, range(process_num))
+  File "/Users/edy/anaconda3/envs/lsh/lib/python3.9/multiprocessing/pool.py", line 364, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/Users/edy/anaconda3/envs/lsh/lib/python3.9/multiprocessing/pool.py", line 771, in get
+    raise self._value
+TypeError: 'set' object is not subscriptable

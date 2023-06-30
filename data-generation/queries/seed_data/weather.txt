@@ -1,0 +1,260 @@
+What is the current temperature in Sydney, Australia?
+Is it currently raining in London, United Kingdom?
+How strong are the wind gusts in San Francisco, California, USA?
+What is the humidity level in Mexico City, Mexico?
+Will there be precipitation in Tokyo, Japan, later today?
+How many miles of visibility are there currently in Johannesburg, South Africa?
+What is the UV index in Miami, Florida, USA, right now?
+What is the current pressure reading in Moscow, Russia?
+How cloudy is it in Dubai, United Arab Emirates, at the moment?
+What is the "feels like" temperature in Toronto, Canada, considering both temperature and wind chill?
+Is it currently raining in Sydney, Australia?
+What is the current UV index in Miami, Florida?
+How many inches of snow have fallen today in Denver, Colorado?
+Is it safe to go for a swim today in Honolulu, Hawaii?
+What is the current visibility range in London, UK?
+Are there any thunderstorms forecasted for Mumbai, India today?
+How many hours of daylight are there today in Oslo, Norway?
+What is the current air quality index in Los Angeles, California?
+Is it windy today in Cape Town, South Africa?
+What is the current humidity level in Tokyo, Japan?
+What is the current heat index in Phoenix, Arizona?
+Is there any chance of a tornado today in Oklahoma City, Oklahoma?
+What is the current pollen count in Atlanta, Georgia?
+Is it currently foggy in San Francisco, California?
+What is the current air pressure in Moscow, Russia?
+How many miles per hour is the wind blowing in Wellington, New Zealand?
+Is it currently snowing in Anchorage, Alaska?
+What is the current dew point in Singapore?
+Are there any weather warnings in effect for Toronto, Canada today?
+What is the current chance of precipitation in Seoul, South Korea?
+What's the current temperature in New York City?
+Is it raining in London right now?
+How humid is it in Bangkok today?
+What's the wind speed in Sydney at the moment?
+What's the cloud coverage like in Paris today?
+What's the body temperature in Mumbai right now?
+What's the visibility like in Los Angeles currently?
+What's the UV index in Dubai today?
+What's the pressure in Moscow at the moment?
+Is it sunny in Rio de Janeiro today?
+How much precipitation can we expect in New York City today?
+What's the current wind speed in Los Angeles?
+Is it cloudy in Paris right now?
+What's the humidity level like in Rio de Janeiro today?
+Can you tell me the body temperature in Mumbai at the moment?
+What's the local time in Sydney right now?
+How far can we see in London currently?
+Is the UV index high in Bangkok today?
+What's the pressure like in Moscow at this time?
+What's the temperature in Dubai in Celsius?
+What is the current temperature and weather condition in Los Angeles, California, USA? Is it sunny, cloudy or rainy?
+How humid is it in Mumbai, India today? Will it feel sticky or comfortable outside?
+Is there a chance of snow in Moscow, Russia today? What is the probability of precipitation?
+I have a flight to catch in Sydney, Australia today. What is the current wind speed and direction at the airport? Will there be any delays due to weather?
+What is the current UV index in Mexico City, Mexico? Is it safe to be outside without sunscreen?
+I am planning a picnic in Paris, France today. Will it be a good day for it? What is the cloud cover and chance of precipitation?
+I have an outdoor concert to attend in Rio de Janeiro, Brazil tonight. What will the temperature be like after sunset? Will I need a jacket?
+How does the current temperature and weather condition in Tokyo, Japan compare to the average for this time of year? Is it hotter or cooler than usual?
+I am going for a jog in Cape Town, South Africa today. What is the current visibility like? Will I be able to see clearly while running?
+What is the current air pressure and how does it compare to the average for this time of year in London, UK? Could it affect my breathing or cause any health issues?
+What is the current wind speed in New York City, and will it affect flights at the airports?
+How is the weather in Los Angeles today? Is it warm enough for a beach day?
+Is it currently raining in London, and will it continue throughout the day?
+What is the temperature in Sydney, Australia, and is it a good day for outdoor activities?
+What is the visibility like in Paris, France, and will it affect driving conditions?
+How is the air quality in Beijing, China today? Is it safe to go outside without a mask?
+What is the current humidity level in Miami, Florida, and is it uncomfortable for outdoor activities?
+Is it cloudy or sunny in San Francisco, California today, and will it affect sightseeing at tourist attractions?
+What is the current UV index in Dubai, United Arab Emirates, and do I need to wear sunscreen?
+How is the temperature in Rio de Janeiro, Brazil, and is it a good day for a hike?
+Is it currently snowing in Toronto, Canada, and will it affect driving conditions?
+What is the precipitation level in Seattle, Washington today, and will it continue throughout the week?
+Is it windy in Wellington, New Zealand, and will it affect ferry schedules to nearby islands?
+What is the current pressure in Moscow, Russia, and will it affect air travel at the airport?
+Is it currently foggy in San Diego, California, and will it affect visibility for drivers?
+How is the cloud cover in Amsterdam, Netherlands, and will it affect outdoor activities?
+What is the current humidity level in Bangkok, Thailand, and is it uncomfortable for outdoor activities?
+Is it currently hailing in Denver, Colorado, and will it affect travel on the roads?
+What is the temperature in Helsinki, Finland, and is it a good day for a walk in the park?
+How is the air quality in Mumbai, India today, and is it safe to go outside without a mask?
+What is the current wind speed in Chicago, Illinois, and will it affect sports games at the stadiums?
+Is it currently thundering in Orlando, Florida, and will it affect outdoor activities?
+What is the visibility like in Rome, Italy, and will it affect sightseeing at tourist attractions?
+How is the cloud cover in Cape Town, South Africa, and will it affect outdoor activities?
+What is the current humidity level in Singapore, and is it uncomfortable for outdoor activities?
+Is it currently snowing in Oslo, Norway, and will it affect public transportation?
+What is the temperature in Seoul, South Korea, and is it a good day for a picnic in the park?
+How is the air quality in Mexico City today, and is it safe to go outside without a mask?
+What is the precipitation level in Vancouver, Canada, and will it affect outdoor events?
+Is it currently sunny or cloudy in Madrid, Spain, and will it affect outdoor dining at restaurants?
+How is the humidity level in Bangkok today, and will it be uncomfortable for outdoor activities?
+Is it currently raining in London, and will it continue throughout the day?
+What is the temperature in Dubai today, and is it a good day for outdoor activities?
+How is the air quality in Delhi today, and is it safe to go outside without a mask?
+What is the wind speed in Chicago today, and will it affect travel by boat on Lake Michigan?
+Is it currently snowing in Moscow, and will it affect driving conditions on the roads?
+How is the cloud cover in Los Angeles today, and will it affect visibility for drivers?
+What is the visibility like in Paris today, and will it affect sightseeing at tourist attractions?
+Is it currently thundering in Miami, and will it affect outdoor activities?
+What is the precipitation level in Seattle today, and will it affect outdoor events?
+What is the chance of rain in London 5 days from now, and will it affect outdoor events?
+How hot will it get in New York City 10 days from now, and is it a good time to visit the city's parks?
+Will there be any snow in Tokyo 7 days from now, and will it affect public transportation?
+What will be the average temperature in Sydney 2 weeks from now, and is it a good time to plan a beach day?
+How humid will it be in Miami 4 days from now, and will it affect outdoor activities?
+Will it be a cloudy day in Los Angeles 8 days from now, and will it affect sightseeing at tourist attractions?
+What will be the sunrise and sunset times in Paris 6 days from now, and is it a good time to go for a morning jog?
+How much rainfall is expected in Seattle 9 days from now, and will it continue throughout the week?
+Will it be a sunny or cloudy day in Rio de Janeiro 11 days from now, and is it a good time to visit the city's landmarks?
+How strong will the winds be in Wellington 13 days from now, and will it affect ferry schedules to nearby islands?
+What will be the average temperature in New York City after one week?
+Will it rain in Paris three days later, and if so, what's the chance of precipitation?
+How high will the UV index be in Sydney in five days?
+What will be the maximum temperature in Los Angeles two days later?
+Will it snow in Tokyo four days later, and if so, how much snow is expected to fall?
+What will be the minimum temperature in London after one week?
+Will it be windy in Beijing three days later, and if so, how strong will the winds be?
+How much precipitation is expected in Miami after four days?
+What will be the overall weather in Moscow two days later?
+Will it rain in Rio de Janeiro six days later, and if so, what's the chance of precipitation?
+How high will the UV index be in Bangkok after one week?
+What will be the average visibility in Dubai three days later?
+Will it snow in Vancouver after five days, and if so, how much snow is expected to fall?
+How high will the UV index be in Madrid two days later?
+What will be the maximum wind speed in Istanbul four days later?
+Will it be partly cloudy in Singapore after one week, and if so, what's the overall weather?
+How much snow is expected to fall in Denver three days later?
+What will be the sunrise time in Seoul after four days?
+Will it be humid in Mumbai six days later, and if so, what will be the average humidity?
+When will the sun be up in San Francisco two days later?
+What will be the overall weather in Paris 5 days from now?
+How much precipitation is expected in Los Angeles 8 days from now?
+What will be the average temperature in New York City 10 days from now?
+What is the chance of rain in Sydney 3 days from now?
+Will it snow in Moscow 7 days from now, and if so, how much snow is expected?
+What will be the max wind speed in Tokyo 4 days from now?
+What will be the average visibility in Mumbai 9 days from now?
+How humid will it be in Rio de Janeiro 6 days from now?
+What is the UV index in Bangkok 2 days from now?
+What will be the sunrise and sunset times in Toronto 12 days from now?
+Will it rain in Amsterdam 11 days from now, and if so, how much precipitation is expected?
+What is the chance of snow in Chicago 13 days from now?
+What will be the min temperature in Beijing 14 days from now?
+What will be the max temperature in Madrid 7 days from now?
+What is the total snow expected in Oslo 10 days from now?
+How strong will the winds be in Seoul 9 days from now?
+What will be the overall weather in Cape Town 6 days from now?
+What will be the average temperature in Istanbul 4 days from now?
+How much precipitation is expected in Vancouver 8 days from now?
+What will be the sunrise and sunset times in Buenos Aires 14 days from now?
+What is the chance of rain in Seattle four days from now?
+What will be the average temperature in Miami seven days later?
+How much total precipitation is expected in Tokyo ten days from today?
+Will it be sunny in Los Angeles eight days later, and if so, what will be the UV index?
+What is the maximum wind speed expected in Chicago three days from now?
+Will it be cloudy in London five days later, and if so, what will be the average visibility?
+What is the minimum temperature expected in New York City nine days from today?
+Will there be any snow in Moscow six days later, and if so, how much?
+What is the sunrise time in Sydney two days from now?
+Will it rain in Paris eleven days from today, and if so, what is the chance of rain?
+What is the maximum temperature expected in Rome seven days from now?
+Will it be humid in Bangkok four days later, and if so, what will be the average humidity?
+How much total snow is expected in Oslo nine days from today?
+What is the average temperature expected in San Francisco six days from now?
+Will there be any precipitation in Beijing three days later, and if so, how much?
+What is the chance of snow in Montreal five days from today?
+Will it be windy in Sydney eight days later, and if so, how strong will the winds be?
+What is the average visibility expected in Tokyo eleven days from now?
+Will there be any rain in Barcelona seven days later, and if so, what is the chance of rain?
+What is the minimum temperature expected in Moscow ten days from today?
+Will it be sunny in Los Angeles four days later, and if so, what will be the UV index?
+What is the total precipitation expected in London six days from now?
+Will it be humid in Dubai nine days later, and if so, what will be the average humidity?
+What is the maximum wind speed expected in Shanghai twelve days from today?
+Will it be cloudy in Paris five days later, and if so, what will be the average visibility?
+What is the sunrise time in Chicago three days from now?
+Will it rain in Sydney ten days from today, and if so, what is the chance of rain?
+What is the maximum temperature expected in Mumbai nine days from now?
+Will there be any snow in Zurich four days later, and if so, how much?
+What is the average temperature expected in Amsterdam seven days from now?
+In Tokyo, on the seventh day from today, what is the expected range of humidity levels and what time is sunrise and sunset?
+On the ninth day from now in Sydney, what will be the maximum wind gust speed and what will be the UV index at midday?
+In London, what will be the average temperature, total precipitation, and chance of rain on the eleventh day from now?
+On the fourth day from now in Los Angeles, what will be the maximum and minimum temperature, average humidity, and total snow?
+In Mumbai, on the eighth day from today, what will be the overall weather condition, maximum wind speed, and average visibility?
+On the tenth day from now in Paris, what will be the average temperature and chance of snow, and what time will the moonrise and moonset occur?
+In Rio de Janeiro, on the thirteenth day from today, what will be the maximum temperature, total precipitation, and chance of rain, and at what time will the sun rise and set?
+In Moscow, on the sixth day from now, what will be the minimum temperature, average humidity, and total snow, and what will be the sunrise and sunset times?
+On the twelfth day from now in Seoul, what will be the maximum wind speed, average visibility, and UV index at midday, and what is the chance of rain?
+In Cape Town, on the eighth day from today, what will be the overall weather, average temperature, and total precipitation, and what time will the moon rise and set?
+In Beijing, on the fifth day from now, what will be the maximum and minimum temperature, chance of snow, and average humidity, and what time will the sun rise and set?
+On the tenth day from today in Rome, what will be the average temperature and total snow, and what will be the maximum wind speed and chance of rain?
+In Toronto, on the thirteenth day from now, what will be the overall weather condition, maximum temperature, and average visibility, and at what time will the moonrise and moonset occur?
+On the eleventh day from now in Vancouver, what will be the minimum temperature, total precipitation, and chance of snow, and what time will the sun rise and set?
+In Dubai, on the seventh day from today, what will be the average temperature, total precipitation, and chance of rain, and what time will the sunrise and sunset occur?
+In New York City, on the eighth day from now, what will be the overall weather condition, maximum wind speed, and UV index at midday, and what time will the moon rise and set?
+On the twelfth day from now in Melbourne, what will be the average temperature, total snow, and average humidity, and what will be the maximum wind speed and chance of snow?
+In Berlin, on the ninth day from today, what will be the maximum and minimum temperature, total precipitation, and chance of rain, and what time will the sun rise and set?
+In San Francisco, on the sixth day from now, what will be the average temperature, maximum wind speed, and average visibility, and what time will the moonrise and moonset occur?
+In Johannesburg, on the thirteenth day from now, what will be the overall weather condition, maximum temperature, and chance of snow, and what time will the sunrise and sunset occur?
+What is the UV index in Sydney, Australia right now and how long can I safely stay in the sun?
+I'm planning a beach vacation in Bali next week, what will be the average temperature during my stay and will I need to pack a raincoat?
+Will there be any precipitation in London tomorrow and what is the chance of rain?
+I want to go hiking in the mountains near Denver, Colorado 2 days later. What will be the average temperature during the day and how much snow is on the ground?
+I have a business trip to Beijing tomorrow. Can you forecast the average humidity level during my stay?
+I'm planning to go on a road trip from San Francisco to Los Angeles next week. What will be the average wind speed on the route and should I be prepared for any extreme weather conditions?
+I'm going to attend a music festival in New Orleans 5 days later. Can you forecast the daily chance of rain and suggest some appropriate footwear?
+I want to plan a ski trip to Banff, Canada day after tomorrow. What will be the average temperature during the day and how much snow can I expect on the slopes?
+I'm visiting Barcelona next week and I'm wondering if I need to pack a heavy jacket for the evenings. Can you provide the average low temperature for the next 7 days?
+I'm planning a camping trip in Yosemite National Park the next day. Can you forecast the daily chance of precipitation and suggest some appropriate camping gear?
+I have a business trip to Dubai 4 days later. Can you forecast the average daily temperature and suggest appropriate clothing for a business meeting?
+I'm going to visit Tokyo tomorrow and I'm wondering if I need to pack an umbrella. Can you forecast the daily chance of rain during my stay?
+I am planning to go on a hiking trip in the Himalayas 3 days later. Can you give me a weather forecast for the region and suggest the best day to start the trek?
+I have a flight from Tokyo to Beijing tomorrow. Is there any chance of my flight getting delayed due to bad weather?
+I am planning to have a picnic in Central Park, New York, 4 days later. Can you give me a weather forecast for the area?
+I am hosting an outdoor wedding in Miami tomorrow. What is the probability of rain and how much should I be prepared for?
+I am planning to visit the Grand Canyon 5 days later. Can you give me a weather forecast for the region and suggest the best day to visit?
+I have a business trip to Dubai a week later. What is the expected temperature and humidity in the city during my stay?
+I am a wildlife photographer planning to visit the Serengeti National Park in Tanzania for next two days. What is the expected rainfall pattern and temperature in the region during my stay?
+I am a farmer in rural India. Can you give me a weather forecast for the next few days so I can plan my crops accordingly?
+I am planning to go on a scuba diving trip in the Great Barrier Reef next week. What is the expected water temperature and visibility in the region during my stay?
+I am planning to go skiing in Whistler, Canada, 2 days later. Can you give me a weather forecast for the region and suggest the best day to hit the slopes?
+I am planning to visit the Eiffel Tower in Paris 4 days later. Can you give me a weather forecast for the area and suggest the best time of day to visit?
+I am planning to go on a fishing trip in the Florida Keys a week later. What is the expected wind speed and wave height in the region during my stay?
+I am planning to have an outdoor barbeque in Sydney, Australia, after 3 days. Can you give me a weather forecast for the area?
+I am planning to visit the Machu Picchu ruins in Peru tomorrow. What is the expected temperature and humidity in the region during my stay?
+I am a sailor planning to sail from Miami to Bermuda next week. Can you give me a weather forecast for the route and suggest the best day to set sail?
+I am a meteorologist working for a solar power company. Can you give me a weather forecast for the next few days so I can predict the output of our solar panels?
+I am planning to go on a hot air balloon ride in Cappadocia, Turkey, in next three days. Can you give me a weather forecast for the region and suggest the best day to take the ride?
+I am a farmer in rural Brazil. Can you give me a weather forecast for the next few days so I can plan my irrigation schedule accordingly?
+I have a flight scheduled to depart from Chicago O'Hare International Airport tomorrow morning. Can you provide the current weather conditions at the airport, including visibility and wind speed, to help me prepare for my travel?
+I'm planning a beach day in Miami, Florida three days from now. Can you forecast the expected UV index for that day and recommend an appropriate sunscreen with SPF?
+I have an outdoor wedding to attend in London, England next week. Can you forecast the expected temperature and chance of precipitation for that day so I can plan my outfit accordingly?
+I'm going hiking in the Grand Canyon National Park next weekend. Can you provide the expected high and low temperatures and wind speed for the day of my hike, as well as any potential hazards to look out for?
+I'm planning a road trip from Los Angeles, California to Las Vegas, Nevada next month. Can you provide the average temperatures and precipitation for each city during the time of my travel to help me plan my route and packing?
+I'm planning to visit the Eiffel Tower in Paris, France three days from now. Can you provide the expected visibility and sunrise/sunset times to help me plan my visit?
+I have an outdoor concert to attend in Sydney, Australia next week. Can you provide the expected humidity levels and chance of thunderstorms during the concert time so I can prepare accordingly?
+I'm going on a cruise to the Caribbean in two weeks. Can you provide the expected temperatures, wind speeds, and ocean currents during the time of my cruise to help me plan my activities on board?
+I'm planning a picnic in Central Park, New York City tomorrow. Can you provide the expected chance of precipitation and wind speed to help me plan the timing and location of my picnic?
+I'm going skiing in Whistler, British Columbia next month. Can you provide the expected snowfall amounts and wind speeds for the days of my ski trip to help me plan my gear and safety precautions?
+I am planning to take a road trip from Los Angeles to Las Vegas tomorrow. Can you provide the expected temperature and wind speed along the route, as well as any potential road closures or hazards due to weather?
+I have an outdoor wedding planned in Central Park, New York City, next Saturday. Can you forecast the temperature, humidity, and chance of precipitation during the ceremony and reception time?
+I am scheduled to go on a deep-sea fishing trip in Honolulu, Hawaii, 5 days from now. Can you provide the expected wave height, wind speed, and visibility in the area during the trip?
+I am planning to hike up Mount Kilimanjaro in Tanzania, starting 7 days from now. Can you provide the expected temperature and precipitation at different elevations during the climb?
+I have a flight to London Heathrow Airport leaving in 2 days. Can you provide the expected weather conditions at the airport during the departure time?
+I am planning to go skiing in Whistler, British Columbia, Canada, next Wednesday. Can you forecast the expected snowfall amount, temperature, and wind speed during the day?
+I have a beach vacation planned in Cancun, Mexico, starting in 4 days. Can you provide the expected temperature, humidity, and chance of precipitation during my stay?
+I am planning to visit the Grand Canyon National Park 3 days from now. Can you provide the expected temperature, wind speed, and visibility in the area during my visit?
+I am planning to attend an outdoor concert in Amsterdam, Netherlands, next Friday. Can you forecast the expected temperature, humidity, and chance of precipitation during the concert time?
+I am planning to take a weekend camping trip in Yosemite National Park, starting 2 days from now. Can you forecast the expected temperature, chance of precipitation, and wind speed during the trip?
+I'm planning to go on a safari in Kruger National Park in South Africa tomorrow. Can you tell me the expected temperature range, chance of precipitation, and any possible thunderstorms?
+I have a flight to catch from JFK Airport in New York City in 5 days. Can you forecast the expected wind speed and direction during my flight's departure and arrival times?
+I'm planning to climb Mount Everest in 7 days. Can you tell me the expected temperature and wind speed at the peak, as well as the likelihood of precipitation or snowfall?
+I'm planning a beach vacation in Bali, Indonesia next week. Can you tell me the expected daily UV index and suggest some appropriate sun protection measures?
+I'm planning to visit the Grand Canyon in Arizona, USA 3 days later. Can you tell me the expected air pressure and visibility during my stay?
+I'm planning to go camping in the Rocky Mountains in Colorado next weekend. Can you tell me the expected temperature range and suggest appropriate clothing and gear for the trip?
+I'm planning to visit Tokyo, Japan next month. Can you tell me the expected humidity levels during my stay and suggest appropriate clothing?
+I'm planning to visit the Colosseum in Rome, Italy tomorrow. Can you tell me the expected temperature range and chance of precipitation during my visit?
+I'm planning to hike the Inca Trail to Machu Picchu in Peru a week later. Can you tell me the expected temperature range and precipitation levels along the trail?
+I'm planning to visit the Angkor Wat temple complex in Cambodia in 10 days. Can you tell me the expected temperature range and humidity levels during my stay?

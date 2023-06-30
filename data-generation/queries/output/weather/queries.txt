@@ -1,0 +1,100 @@
+What will be the forecasted weather in London tomorrow evening, and will there be any possibility of a thunderstorm?
+Can you tell me the expected temperature in Hawaii in the next seven days? 
+What will be the temperature and UV index in the morning in Los Angeles on Thursday next week? 
+I am going on a trip to Amsterdam in two weeks. Can you tell me the forecasted weather during my stay there? 
+How windy is it going to be in Chicago this weekend, and what is the chance of rain?
+Will it be too hot to hike in Phoenix, Arizona, tomorrow afternoon?
+Can you provide me with the weather forecast for Toronto, Canada, for the remainder of the week?
+I'm planning a trip to New Orleans in three days. Will it be possible to do outdoor activities during this period?
+What will be the temperature, wind speed, and visibility in the morning in Paris, France, next Monday? 
+What will be the weather condition in Tokyo on the coming weekend?
+Can you provide me the current temperature and visibility in London, England?
+Could you suggest the best time to do outdoor activities in Bangkok, Thailand based on the forecast?
+What is the humidity level in Singapore right now?
+Can you provide the weather forecast for New York City for the next 5 days?
+I have planned to go to Maldives next week. Can you give me the forecast for the region at that time?
+Will it be rainy in Paris, France in the next two days?
+What is the expected temperature in Dubai this weekend?
+I am planning to do camping in the Yosemite National Park next week. Can you tell me what the temperature will be like, and if any natural hazard is expected due to weather?
+What is the chance of thunderstorms in Sydney next week, and what time should we expect sunrise and sunset?
+Can you tell me the humidity level in Rio de Janeiro currently, and will it affect my plans to go to the beach?
+In seven days, what will be the expected temperature in Toronto during peak afternoon hours, and can we expect any precipitation?
+Is there any snowfall expected in Tokyo tomorrow, and how strong will the wind be throughout the day?
+What is the 24-hour weather forecast for Mumbai, and what are the chances of experiencing any weather warnings?
+Can you tell me about the current cloud coverage in Auckland and how that will impact visibility for outdoor activities?
+How hot will it be in Cairo next week, and is it safe to plan outdoor sightseeing during the day?
+Can you provide me with the current UV index and pollution levels in Beijing, China?
+In the next two days, what will be the lowest temperature in Berlin, and what is the chance of snowfall?
+What is the expected weather forecast for New York City tomorrow? Will it rain, and if so, how much precipitation is expected?
+How hot will it be in Madrid, Spain next Saturday, and will there be any UV warnings?
+Can you provide the wind speed and direction in London, UK at the moment? Is there any risk of strong winds or tornados?
+I am planning a skiing trip to Whistler, Canada in two weeks. What is the expected temperature and snowfall during that time period?
+How likely is it to have a thunderstorm in Beijing, China next Monday, and what is the average rainfall during that time of the year?
+I need to travel to Dubai, United Arab Emirates soon. Can you provide the expected humidity levels and visibility for the next 7 days?
+What is the expected cloud coverage in Paris, France during sunset hours tomorrow, and will there be a sunset visible due to weather conditions?
+Is there any expected temperature drop in Moscow, Russia over the next two days, and if so, what should I prepare for in terms of clothing?
+How much snow is expected in Helsinki, Finland next week, and will there be any blizzards or snowdrifts that can affect travel?
+Can you tell me the temperature in Beijing, China for this weekend?
+What will be the weather forecast for Los Angeles, California next week?
+Will it be hot or cold in Chicago, Illinois two days from now?
+Can you provide me with the wind speed and UV index for Sydney, Australia tomorrow?
+In Miami, Florida, what is the expected temperature range for the next three days?
+I'm planning a trip to Tokyo, Japan next month. What is the average humidity level during that period?
+Can you tell me the likelihood of precipitation in London, England on the first day of October?
+What is the minimum temperature expected in Moscow, Russia ten days from today?
+Will it be cloudy or sunny in Rome, Italy on Saturday, and what will be the body temperature?
+What is the wind speed in Sydney, Australia?
+Can you provide the temperature forecast for Austin, Texas for the next three days?
+What is the chance of rain in Seattle, Washington tomorrow?
+How hot is it currently in Dubai, UAE? 
+Will there be any thunderstorms in Miami, Florida this weekend?
+What is the predicted pressure in Tokyo, Japan for the next 24 hours?
+Is there any chance of hail or sleet in Denver, Colorado in the next week?
+How much precipitation is expected in Chicago, Illinois tomorrow?
+Is there a possibility of a tornado in Oklahoma City, Oklahoma tomorrow?
+What is the temperature and humidity going to be in Miami, Florida tomorrow?
+When will it rain next in Sydney, Australia and what is the expected rainfall?
+What are the current wind speeds in Mumbai, India?
+Is there any chance of thunderstorm in Dallas, Texas and if so, when?
+How will the UV index in Beijing, China vary throughout the day?
+What is the expected cloud cover in Cancun, Mexico next week?
+What is the body temperature and visibility like in London, United Kingdom right now?
+Is there any chance of fog in San Diego, California and if so, when is it expected?
+What is the likelihood of snowfall in Zurich, Switzerland next month?
+What will be the temperature in Miami during the next week, and what will be the level of humidity?
+Will there be a chance of thunderstorms in Toronto tomorrow, and if so, what is the expected intensity?
+What is the overall weather forecast in London for today, and what is the expected wind speed?
+What is the expected amount of rainfall in New York City next week?
+What is the expected UV index in Los Angeles tomorrow, and can you provide information on the recommended sun protection?
+What is the expected temperature range in Paris next month, and will it be suitable for outdoor activities?
+Will it be foggy in San Francisco next week, and will it affect air travel?
+What is the expected wind direction in Sydney tomorrow, and how strong will the winds be?
+What is the average temperature during the winter season in Moscow, and what is the likelihood of snowfall?
+What is the current temperature and humidity level at my current location in real-time?
+Can you provide me with the weather forecast for Toronto, Canada, for the entire next week?
+What is the expected amount of rainfall in Seattle, Washington, in the next 24 hours?
+What is the predicted UV index in Miami, Florida, for tomorrow?
+What is the current wind speed and pressure level in Dallas, Texas? 
+How will the weather be like in Sydney, Australia, on the day of my trip to see the Opera House?
+Can you provide me with the weather forecast for London, England, for the upcoming weekend?
+What is the expected weather condition in Beijing, China, for the day of the opening ceremony of the next Olympic Games?
+Can you tell me the maximum temperature I can expect in Los Angeles, California, in the next two weeks?
+What is the expected temperature in Paris, France on the third day from today and will it be rainy that day?
+How strong is the wind in Cancun, Mexico at the moment?
+What will be the highest temperature in Sydney, Australia, in the next 5 days?
+In Beijing, China, on the fifth day from today, what is the expected range of UV index and what time will sunset occur?
+What's the humidity level in Cape Town, South Africa, right now?
+How much rainfall is expected in Miami, USA in the next 24 hours?
+What will be the temperature range in Rio de Janeiro, Brazil, next Monday?
+What is the visibility range in Bangkok, Thailand, at the moment?
+Will it be a sunny day in Barcelona, Spain, 7 days from today, and what will be the expected temperature?
+Can you provide the expected temperature, humidity, and UV index of Goa, India for tomorrow?
+What is the precipitation forecast for Seattle, Washington for the next five days, and will there be any thunderstorms during this time period?
+What is the current temperature, visibility, and cloud cover of Tokyo, Japan?
+What is the temperature range, wind speed, and visibility of Berlin, Germany for the next two days?
+What is the overall weather condition and expected precipitation for Vancouver, Canada two days from now?
+Can you tell me the sunrise and sunset times in Sydney, Australia for the next three days, as well as the expected humidity?
+What is the expected wind direction and speed in Rio de Janeiro, Brazil for the next four days?
+What is the expected temperature, pressure, and cloud cover in Mumbai, India one week from today?
+What is the expected temperature, percipitation, and humidity in Paris, France for the next two days?
+What is the overall weather condition, maximum and minimum temperature, and wind speed in Sydney tomorrow?

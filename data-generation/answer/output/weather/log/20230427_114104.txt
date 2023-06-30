@@ -1,0 +1,10 @@
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:165: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:672: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:165: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+[1;31m[INFO|(BMTools)apitool:95]2023-04-27 11:41:05,528 >> [0m API Name: get_weather_today
+[1;31m[INFO|(BMTools)apitool:96]2023-04-27 11:41:05,528 >> [0m API Description: Get today's the weather. Your input should be a json (args json schema): {{"location" : string, }} The Action to trigger this API should be get_weather_today and the input parameters should be a json dict string. Pay attention to the type of parameters.
+[1;31m[INFO|(BMTools)apitool:95]2023-04-27 11:41:05,528 >> [0m API Name: forecast_weather
+[1;31m[INFO|(BMTools)apitool:96]2023-04-27 11:41:05,528 >> [0m API Description: Forecast weather in the upcoming days.. Your input should be a json (args json schema): {{"location" : string, "days" : integer, }} The Action to trigger this API should be forecast_weather and the input parameters should be a json dict string. Pay attention to the type of parameters.

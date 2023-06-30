@@ -1,0 +1,36 @@
+/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py:165: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+will register chemical-prop
+will register douban-film
+will register wikidata
+will register stock
+will register weather
+will register wikipedia
+will register wolframalpha
+will register office-ppt
+will register bing_search
+will register map
+will register nllb-translation
+will register baidu-translation
+will register tutorial
+will register file_operation
+will register meta_analysis
+will register database
+will register code_interpreter
+Traceback (most recent call last):
+  File "/Users/edy/Downloads/git_clone/AutoToolLearning/data/answer/main_react.py", line 23, in <module>
+    from bmtools.agent.executor import Executor
+  File "/Users/edy/Downloads/git_clone/AutoToolLearning/data/answer/bmtools/agent/executor.py", line 9, in <module>
+    class AgentExecutorWithTranslation(AgentExecutor):
+  File "/Users/edy/Downloads/git_clone/AutoToolLearning/data/answer/bmtools/agent/executor.py", line 11, in AgentExecutorWithTranslation
+    translator: Translator = Translator()
+  File "/Users/edy/Downloads/git_clone/AutoToolLearning/data/answer/bmtools/agent/translator.py", line 22, in __init__
+    llm = self.create_openai_model(openai_api_key, model_name)
+  File "/Users/edy/Downloads/git_clone/AutoToolLearning/data/answer/bmtools/agent/translator.py", line 44, in create_openai_model
+    llm = OpenAI(model_name=model_name,
+  File "/Users/edy/anaconda3/envs/lsh/lib/python3.9/site-packages/langchain/llms/openai.py", line 170, in __new__
+    return OpenAIChat(**data)
+  File "pydantic/main.py", line 406, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for OpenAIChat
+__root__
+  Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass  `openai_api_key` as a named parameter. (type=value_error)

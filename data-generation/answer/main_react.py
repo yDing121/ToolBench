@@ -1,9 +1,4 @@
-import json
-import os
-
 import langchain
-import requests
-import yaml
 import sys
 import jsonlines
 from math import floor
@@ -14,11 +9,10 @@ from langchain import LLMChain
 from langchain.agents import ZeroShotAgent
 
 sys.path.insert(0, "D:/Coding/BMTools")
-import load_keys
+from src import load_keys
 from bmtools.agent.executor import Executor
 from bmtools import get_logger
 from utils import prepare_queries, NAME2URL, MyZeroShotAgent, MyAgentExecutor, MyMRKLOutputParser, LogParser
-from bmtools.models.customllm import CustomLLM
 from bmtools.agent.singletool import import_all_apis, load_single_tools
 
 logger = get_logger(__name__)
@@ -35,7 +29,7 @@ args = parser.parse_args()
 # # OpenAI
 # with open("D:/Coding/key.txt", "r") as fin:
 #     os.environ["OPENAI_API_KEY"] = fin.readline()
-load_keys.load_OpenAI_key()
+load_keys.load_key("openai")
 
 # basically copy the codes in singletool.py
 class STQuestionAnswerer:

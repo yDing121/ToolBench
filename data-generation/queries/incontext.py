@@ -20,8 +20,7 @@ import random
 import re
 import openai
 import sys
-import load_keys
-from src import utils
+from src import load_keys
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--model', type=str, default="gpt-3.5-turbo", required=False, help='model name')
@@ -121,7 +120,7 @@ def read_seed_data(t_name=args.tool_name):
 if __name__ == "__main__":
     # Set OpenAI key
     # utils.get_set_key("../../../key.txt")
-    load_keys.load_OpenAI_key()
+    load_keys.load_openai_key()
 
     # Get tool description and corresponding seeds
     # Make sure the seed data for the specified tool actually exists and is in the correct directory

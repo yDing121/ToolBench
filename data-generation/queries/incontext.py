@@ -20,6 +20,7 @@ import random
 import re
 import openai
 import sys
+import load_keys
 from src import utils
 
 parser = argparse.ArgumentParser()
@@ -119,7 +120,8 @@ def read_seed_data(t_name=args.tool_name):
 
 if __name__ == "__main__":
     # Set OpenAI key
-    utils.get_set_key("../../../key.txt")
+    # utils.get_set_key("../../../key.txt")
+    load_keys.load_OpenAI_key()
 
     # Get tool description and corresponding seeds
     # Make sure the seed data for the specified tool actually exists and is in the correct directory
@@ -138,6 +140,7 @@ if __name__ == "__main__":
 
     # Loop to generate queries
     while len(saved_queries) < tot_num:
+        print(f"Cycle start. Saved Queries:{len(saved_queries)}")
         if len(saved_queries) % 500 == 0:
             print("now {} queries".format(len(saved_queries)))
         if args.language == "en":

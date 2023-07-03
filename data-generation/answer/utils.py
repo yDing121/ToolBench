@@ -25,10 +25,10 @@ NAME2URL = {
     "klarna": "https://www.klarna.com/",
     'chemical-prop':  "http://127.0.0.1:8079/tools/chemical-prop/",
     'douban-film':  "http://127.0.0.1:8079/tools/douban-film/",
-    'weather':  "http://127.0.0.1:8079/tools/weather/",
+    # 'weather':  "http://127.0.0.1:8079/tools/weather/",
+    'weather2':  "http://127.0.0.1:8079/tools/weather2/",
     'wikipedia':  "http://127.0.0.1:8079/tools/wikipedia/",
-    'wolframalpha':  "http://127.0.0.1:8079/tools/wolframalpha/",
-    'klarna':  "https://www.klarna.com/"
+    'wolframalpha':  "http://127.0.0.1:8079/tools/wolframalpha/"
 }
 
 def read_queries(file_path: str) -> Set[str]:

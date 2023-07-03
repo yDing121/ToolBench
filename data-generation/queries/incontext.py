@@ -122,6 +122,7 @@ if __name__ == "__main__":
     utils.get_set_key("../../../key.txt")
 
     # Get tool description and corresponding seeds
+    # Make sure the seed data for the specified tool actually exists and is in the correct directory
     description = read_description_from_json(args.tool_name)
     if not args.cold_start:
         seed_data = read_seed_data(args.tool_name)
@@ -185,4 +186,4 @@ if __name__ == "__main__":
                 saved_queries.append(r)
                 fout.write(r + "\n")
                 fout.flush()
-        input()
+        input("Input checkpoint reached\n")

@@ -1,13 +1,20 @@
 import json
 import os
+
+import langchain
 import requests
 import yaml
+import sys
 import jsonlines
 from math import floor
 import argparse
 import multiprocessing as mp
+
 from langchain import LLMChain
 from langchain.agents import ZeroShotAgent
+
+sys.path.insert(0, "D:/Coding/BMTools")
+import load_keys
 from bmtools.agent.executor import Executor
 from bmtools import get_logger
 from utils import prepare_queries, NAME2URL, MyZeroShotAgent, MyAgentExecutor, MyMRKLOutputParser, LogParser
@@ -24,6 +31,12 @@ parser.add_argument('--process_num', type=int, default=1, required=False, help='
 parser.add_argument('--debug', type=int, default=0, required=False, help='1 for debugging')
 args = parser.parse_args()
 
+# Keys
+# # OpenAI
+# with open("D:/Coding/key.txt", "r") as fin:
+#     os.environ["OPENAI_API_KEY"] = fin.readline()
+load_keys.load_OpenAI_key()
+
 # basically copy the codes in singletool.py
 class STQuestionAnswerer:
     def __init__(self, stream_output=False, llm_model=None):
@@ -31,7 +44,6 @@ class STQuestionAnswerer:
         self.stream_output = stream_output
 
     def load_tools(self, name, meta_info, prompt_type="react-with-tool-description", return_intermediate_steps=True):
-
         self.all_tools_map = {}
         self.all_tools_map[name] = import_all_apis(meta_info)
 
@@ -64,7 +76,6 @@ class STQuestionAnswerer:
         
         return agent_executor, prompt.template
         
-    
 
 def main(process_id):
     if tool_name not in NAME2URL:
@@ -74,9 +85,11 @@ def main(process_id):
     tools_name, tools_config = load_single_tools(tool_name, tool_url)
     print(tools_name, tools_config)
 
-    # this CustomLLM is basically a ChatGPT, we cannot provide the code here, please use your own ChatGPT for answer generation
-    customllm = CustomLLM()
-    qa =  STQuestionAnswerer(llm_model=customllm)
+    # # this CustomLLM is basically a ChatGPT, we cannot provide the code here, please use your own ChatGPT for answer generation
+    # customllm = CustomLLM()
+    customllm = langchain.OpenAI(temperature=0)
+
+    qa = STQuestionAnswerer(llm_model=customllm)
     agent, prompt_template = qa.load_tools(tools_name, tools_config)
     agent.return_intermediate_steps = True
 
@@ -93,17 +106,17 @@ def main(process_id):
         }
         output = agent(inputs=query)
         # 我们提前parse一遍，为了防止后面的parse出错，额外把intermediate_steps也保存了
-        intermidate_steps = output["intermediate_steps"]
-        for i,step in enumerate(intermidate_steps):
+        intermediate_steps = output["intermediate_steps"]
+        for i,step in enumerate(intermediate_steps):
             log = step[0][-1]
-            parsed_output = log_parser.parse(log)._asdict() 
+            parsed_output = log_parser.parse(log)._asdict()
             thought = parsed_output["thought"][0]
             action = parsed_output["action"][0]
             action_input = parsed_output["action_input"][0]
             if action_input == "":
                 action_input = step[0][1]
             observation = step[1]
-            
+
             chain = {
                 "thought": thought,
                 "action": action,
@@ -115,7 +128,7 @@ def main(process_id):
         out_dict["intermediate_steps"] = output["intermediate_steps"]
         out_dict["log"] = output["log"]
         out_file.write(out_dict)
-        # input()
+        input("Input checkpoint: press enter to continue")
 
 
 process_num = args.process_num

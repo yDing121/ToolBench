@@ -1,6 +1,7 @@
+import os
 import openai
 
-
-def get_set_key(path="../key.txt"):
+def load_OpenAI_key(path="../key.txt"):
     with open(path, "r") as fin:
-        openai.api_key = fin.readline()
+        os.environ["OPENAI_API_KEY"] = fin.readline()
+        openai.api_key = os.environ["OPENAI_API_KEY"]

@@ -17,4 +17,3 @@ def load_key(key_short):
     pair = keydata[key_short]
     os.environ[pair["code"]] = pair["key"]
     print(f"Loaded {key_short} API")
-    

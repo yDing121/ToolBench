@@ -4,6 +4,8 @@ Data preprocessing
 """
 import argparse
 import json
+import os
+
 import jsonlines
 
 parser = argparse.ArgumentParser()
@@ -17,9 +19,59 @@ def preprocess_single(tool_data_path):
     out_list = []
     print("this works")
 
+    # # Writer output here ----
+    # writer = open(os.path.join(args.output_path, "weather2.json"), "a+")
     with jsonlines.open(tool_data_path) as reader:
-        for n, obj in enumerate(reader):
-            print(n+1, obj["query"])
+        for entry in reader:
+            data_dict = entry.copy()
+
+            prompt = data_dict["prompt"]
+            query = data_dict["query"]
+            chains = data_dict["chains"]
+            scratch_pad = ""
+
+            for step_cnt, chain in enumerate(chains):
+                thought = chain["thought"]
+                action = chain["action"]
+                action_input = chain["action_input"]
+                observation = chain["observation"]
+                inputs = prompt.replace("{input}", query).replace("{agent_scratchpad}", scratch_pad)
+                target = f"Thought: {thought}\nAction: {action}\nAction Input: {action_input}\n"
+                scratch_pad += (target + f"Observation: {observation}\n")
+                tmp_dict = {
+                    "id": f"STEP {step_cnt}: " + query,
+                    "conversations":[
+                        {
+                            "from": "human",
+                            "value": inputs
+                        },
+                        {
+                            "from": "gpt",
+                            "value": target
+                        }
+                    ]
+                }
+                out_list.append(tmp_dict)
+
+            inputs = prompt.replace("{input}", query).replace("{agent_scratchpad}", scratch_pad)
+            answer = data_dict["answer"]
+            target = f"Thought: I have got enough information\nFinal Answer:{answer}\n"
+
+            tmp_dict = {
+                "id": f"STEP {step_cnt} WITH API: " + query,
+                "conversations":[
+                    {
+                        "from": "human",
+                        "value": inputs
+                    },
+                    {
+                        "from": "gpt",
+                        "value": target
+                    }
+                ]
+            }
+            out_list.append(tmp_dict)
+        json.dump(out_list, open(os.path.join(args.output_path, "weather2.json"), "w"), indent=4, ensure_ascii=False)
 
 
     # data_dicts = json.load(open(tool_data_path, "r"))

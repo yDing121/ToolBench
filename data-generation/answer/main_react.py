@@ -122,7 +122,9 @@ def main(process_id):
         out_dict["intermediate_steps"] = output["intermediate_steps"]
         out_dict["log"] = output["log"]
         out_file.write(out_dict)
-        input("Input checkpoint: press enter to continue")
+
+        # # Input checkpoint. Comment this out if you don't want the model to stop after every generation
+        # input("Input checkpoint: press enter to continue")
 
 
 process_num = args.process_num

@@ -1,8 +1,10 @@
+# coding:utf-8
 """
 Data preprocessing
 """
 import argparse
 import json
+import jsonlines
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--tool_mode', type=str, default="single", required=True, help='Single tool data or multi tools data. Should be single or multi.')
@@ -13,53 +15,60 @@ args = parser.parse_args()
 
 def preprocess_single(tool_data_path):
     out_list = []
-    data_dicts = json.load(open(tool_data_path, "r"))
-    for data_dict in data_dicts:
-        prompt = data_dict["prompt"]
-        query = data_dict["query"]
-        chains = data_dict["chains"]
-        answer = data_dict["answer"]
-        scratch_pad = ""
-        for step_cnt, chain in enumerate(chains):
-            thought = chain["thought"]
-            action = chain["action"]
-            action_input = chain["action_input"]
-            observation = chain["observation"]
-            inputs = prompt.replace("{input}", query).replace("{agent_scratchpad}", scratch_pad)
-            target = f"Thought: {thought}\nAction: {action}\nAction Input: {action_input}\n"
-            scratch_pad += (target + f"Observation: {observation}\n")
-            tmp_dict = {
-                "id": f"STEP {step_cnt}: " + query,
-                "conversations":[
-                    {
-                        "from": "human",
-                        "value": inputs
-                    },
-                    {
-                        "from": "gpt",
-                        "value": target
-                    }
-                ]
-            }
-            out_list.append(tmp_dict)
-        inputs = prompt.replace("{input}", query).replace("{agent_scratchpad}", scratch_pad)
-        answer = data_dict["answer"]
-        target = f"Thought: I have got enough information\nFinal Answer:{answer}\n"
-        tmp_dict = {
-            "id": f"STEP {step_cnt}: " + query,
-            "conversations":[
-                {
-                    "from": "human",
-                    "value": inputs
-                },
-                {
-                    "from": "gpt",
-                    "value": target
-                }
-            ]
-        }
-        out_list.append(tmp_dict)
-    json.dump(out_list, open(args.output_path,"w"), indent=4, ensure_ascii=False)
+    print("this works")
+
+    with jsonlines.open(tool_data_path) as reader:
+        for n, obj in enumerate(reader):
+            print(n+1, obj["query"])
+
+
+    # data_dicts = json.load(open(tool_data_path, "r"))
+    # for data_dict in data_dicts:
+    #     prompt = data_dict["prompt"]
+    #     query = data_dict["query"]
+    #     chains = data_dict["chains"]
+    #     answer = data_dict["answer"]
+    #     scratch_pad = ""
+    #     for step_cnt, chain in enumerate(chains):
+    #         thought = chain["thought"]
+    #         action = chain["action"]
+    #         action_input = chain["action_input"]
+    #         observation = chain["observation"]
+    #         inputs = prompt.replace("{input}", query).replace("{agent_scratchpad}", scratch_pad)
+    #         target = f"Thought: {thought}\nAction: {action}\nAction Input: {action_input}\n"
+    #         scratch_pad += (target + f"Observation: {observation}\n")
+    #         tmp_dict = {
+    #             "id": f"STEP {step_cnt}: " + query,
+    #             "conversations":[
+    #                 {
+    #                     "from": "human",
+    #                     "value": inputs
+    #                 },
+    #                 {
+    #                     "from": "gpt",
+    #                     "value": target
+    #                 }
+    #             ]
+    #         }
+    #         out_list.append(tmp_dict)
+    #     inputs = prompt.replace("{input}", query).replace("{agent_scratchpad}", scratch_pad)
+    #     answer = data_dict["answer"]
+    #     target = f"Thought: I have got enough information\nFinal Answer:{answer}\n"
+    #     tmp_dict = {
+    #         "id": f"STEP {step_cnt}: " + query,
+    #         "conversations":[
+    #             {
+    #                 "from": "human",
+    #                 "value": inputs
+    #             },
+    #             {
+    #                 "from": "gpt",
+    #                 "value": target
+    #             }
+    #         ]
+    #     }
+    #     out_list.append(tmp_dict)
+    # json.dump(out_list, open(args.output_path,"w"), indent=4, ensure_ascii=False)
 
 def preprocess_multi(tool_data_path):
     # Pick the rev_tools of one given scenario

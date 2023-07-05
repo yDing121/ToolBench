@@ -9,7 +9,7 @@ from langchain import LLMChain
 from langchain.agents import ZeroShotAgent
 
 sys.path.insert(0, "D:/Coding/BMTools")
-from src import load_keys
+from my_utils import load_keys
 from bmtools.agent.executor import Executor
 from bmtools import get_logger
 from utils import prepare_queries, NAME2URL, MyZeroShotAgent, MyAgentExecutor, MyMRKLOutputParser, LogParser
@@ -45,12 +45,16 @@ class STQuestionAnswerer:
 
         tool_str = "; ".join([t.name for t in self.all_tools_map[name]])
         prefix = f"""Answer the following questions as best you can. Specifically, you have access to the following APIs:"""
-        suffix = """Begin! Remember: (1) Follow the format, i.e,\nThought:\nAction:\nAction Input:\nObservation:\nFinal Answer:\n (2) Provide as much as useful information in your Final Answer. (3) Do not make up anything, and if your Observation has no link, DO NOT hallucihate one. (4) If you have enough information and want to stop the process, please use \nThought: I have got enough information\nFinal Answer: **your response. \n The Action: MUST be one of the following:""" + tool_str + """\nQuestion: {input}\n Agent scratchpad (history actions):\n {agent_scratchpad}"""
+        cprefix = f"""尽你所能回答一下的问题。你可以使用一下的API接口："""
+        suffix = """Begin! Remember: (1) Follow the format, i.e,\nThought:\nAction:\nAction Input:\nObservation:\nFinal Answer:\n (2) Provide as much as useful information in your Final Answer. (3) Do not make up anything, and if your Observation has no link, DO NOT hallucihate one. (4) If you have enough information and want to stop the process, please use \nThought: I have got enough information\nFinal Answer: **your response in simplified chinese. \n The Action: MUST be one of the following:""" + tool_str + """\nQuestion: {input}\n Agent scratchpad (history actions):\n {agent_scratchpad}"""
+        csuffix = """开始吧！请记住这几条规矩：（1）使用以下的格式:\nThought:\nAction:\nAction Input:\nObservation:\nFinal Answer:\n （2）尽你所能在最终答案中提供有用的信息。（3）在任何情况下都不能编造答案。如果你的观察没有源链接，不要伪造一个链接。（4）如果你觉得你收集的信息足以回答问题了，请使用\nThought:我有足够的信息了\nFinal Answer:**你最终的答案.\nAction:必须从以下的选项中做出选择:""" + tool_str + """\nQuestion: {input}\n Agent scratchpad (history actions):\n {agent_scratchpad}"""
 
         prompt = ZeroShotAgent.create_prompt(
             self.all_tools_map[name], 
-            prefix=prefix, 
-            suffix=suffix, 
+            # prefix=prefix,
+            # suffix=suffix,
+            prefix=cprefix,
+            suffix=csuffix,
             input_variables=["input", "agent_scratchpad"]
         )
         llm_chain = LLMChain(

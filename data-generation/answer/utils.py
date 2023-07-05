@@ -33,7 +33,7 @@ NAME2URL = {
 
 def read_queries(file_path: str) -> Set[str]:
     query_set = set()
-    with open(file_path, "r") as f:
+    with open(file_path, "r", encoding="utf-8") as f:
         queries = f.readlines()
         for query in queries:
             query_set.add(query)
@@ -43,7 +43,7 @@ def prepare_queries(query_path: str, answer_path: str) -> List[str]:
     queries = read_queries(query_path)
     # check already generated queries
     if os.path.exists(answer_path):
-        pass_queries = [json.loads(line)["query"] for line in open(answer_path, "r")]
+        pass_queries = [json.loads(line)["query"] for line in open(answer_path, "r", encoding="utf-8")]
         for query in pass_queries:
             if query in queries:
                 queries.remove(query)

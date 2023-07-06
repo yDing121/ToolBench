@@ -20,7 +20,7 @@ import random
 import re
 import openai
 import sys
-from src import load_keys
+from my_utils import load_keys
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--model', type=str, default="gpt-3.5-turbo", required=False, help='model name')
@@ -55,6 +55,7 @@ def call_model(prompt, try_times=5):
         refer to /data-generation/queries/response.txt
     """
     while try_times > 0:
+        openai.api_key = os.environ["OPENAI_API_KEY"]
         try:
             completion = openai.ChatCompletion.create(
                 model=args.model,
@@ -120,7 +121,7 @@ def read_seed_data(t_name=args.tool_name):
 if __name__ == "__main__":
     # Set OpenAI key
     # utils.get_set_key("../../../key.txt")
-    load_keys.load_openai_key()
+    load_keys.load_key("openai")
 
     # Get tool description and corresponding seeds
     # Make sure the seed data for the specified tool actually exists and is in the correct directory

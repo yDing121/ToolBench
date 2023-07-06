@@ -71,7 +71,7 @@ def preprocess_single(tool_data_path):
                 ]
             }
             out_list.append(tmp_dict)
-        json.dump(out_list, open(os.path.join(args.output_path, "weather2.json"), "w"), indent=4, ensure_ascii=False)
+        json.dump(out_list, open(os.path.join(args.output_path), "w", encoding="utf-8"), indent=4, ensure_ascii=False)
 
 
 def preprocess_multi(tool_data_path):

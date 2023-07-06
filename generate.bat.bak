@@ -1,0 +1,2 @@
+call conda.bat activate ToolBench
+start cmd /c 

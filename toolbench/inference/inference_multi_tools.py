@@ -1,5 +1,7 @@
 import argparse
 import os
+
+import langchain
 import requests
 import faiss
 from bmtools.agent.apitool import Tool
@@ -20,6 +22,7 @@ from langchain.schema import (
     HumanMessage,
     SystemMessage,
 )
+from my_utils.load_keys import load_key
 
 logger = get_logger(__name__)
 
@@ -141,21 +144,24 @@ class MTQuestionAnswerer:
 if __name__ == "__main__":
     # vacation plan tools mappings
     tools_mappings = {
-        "google_places": "http://127.0.0.1:8079/tools/google_places/",
+        # "google_places": "http://127.0.0.1:8079/tools/google_places/",
         "wikipedia": "http://127.0.0.1:8079/tools/wikipedia/",
         "weather": "http://127.0.0.1:8079/tools/weather/",
-        "bing_search": "http://127.0.0.1:8079/tools/bing_search/",
+        "wolframalpha": "http://127.0.0.1:8079/tools/wolframalpha/",
+        "google_serper": "http://127.0.0.1:8079/tools/google_serper/",
+        "notool": "http://127.0.0.1:8079/tools/notool/",
+        # "bing_search": "http://127.0.0.1:8079/tools/bing_search/",
     }
+    load_key("openai")
     tools = load_valid_tools(tools_mappings)
-    if args.lora_path == "":
-        customllm = LlamaModel(args.model_path)
-    else:
-        customllm = LoraModel(base_name_or_path=args.model_path, model_name_or_path=args.lora_path)
-    qa =  MTQuestionAnswerer(all_tools=tools, customllm=customllm)
+    # if args.lora_path == "":
+    #     customllm = LlamaModel(args.model_path)
+    # else:
+    #     customllm = LoraModel(base_name_or_path=args.model_path, model_name_or_path=args.lora_path)
+    customllm = langchain.OpenAI(temperature=0)
+    qa = MTQuestionAnswerer(all_tools=tools, customllm=customllm)
     agent = qa.build_runner()
     while True:
         query = input("Input your query: ")
         output = agent(query)
         # print(output)
-    
-

@@ -22,7 +22,7 @@ OPTS+=" --parallel ${PARALLEL}"
 OPTS+=" --total_num ${TOTAL_NUM}"
 OPTS+=" --tool_name ${TOOL_NAME}"
 OPTS+=" --language ${LANGUAGE}"
-# OPTS+=" --cold_start"
+
 
 CMD="python incontext.py ${OPTS}"
 

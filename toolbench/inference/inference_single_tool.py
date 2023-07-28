@@ -110,7 +110,7 @@ def main():
         customllm = LlamaModel(args.model_path)
     else:
         customllm = LoraModel(base_name_or_path=args.model_path, model_name_or_path=args.lora_path)
-    qa =  STQuestionAnswerer(llm_model=customllm)
+    qa = STQuestionAnswerer(llm_model=customllm)
     agent = qa.load_tools(tools_name, tools_config)
     
     while True:
